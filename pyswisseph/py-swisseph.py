@@ -1,3 +1,8 @@
+#####
+#Steps to run:
+# 1. Install pyswisseph: pip install pyswisseph # docs : https://pypi.org/project/pyswisseph/
+# 2. run this file: python3 py-swisseph.py
+#####
 import time
 from datetime import datetime
 import swisseph as swe
